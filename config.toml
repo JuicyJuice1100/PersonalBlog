@@ -15,7 +15,7 @@ theme = "dream"
     # darkNav = true
     # dark404 = true
 
-    images = [""]
+    # images = [""]
 
     author = "Juice"
     description = "TheOriginalJuicyJuice"
