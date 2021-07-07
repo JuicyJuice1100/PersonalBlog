@@ -2,4 +2,4 @@
 title: Links
 ---
 
-Resume Website: https://justinlespiritu.com/
+Resume: https://justinlespiritu.com/

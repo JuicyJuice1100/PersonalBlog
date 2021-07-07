@@ -10,7 +10,7 @@ theme = "dream"
 
     # dark mode
     # defaultDark = true
-    backgroundDark = "black"
+    backgroundDark = "#333"
     darkLinkColor = "darkseagreen"
     # darkNav = true
     # dark404 = true
@@ -19,7 +19,7 @@ theme = "dream"
 
     author = "Juice"
     description = "TheOriginalJuicyJuice"
-    # avator = ""
+    avatar = "/img/logo.png"
     headerTitle = "TheOriginalJuicyJuice"
     
     #social
@@ -35,9 +35,9 @@ theme = "dream"
 
     highlightjs = true
     # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-    highlightjsExtraLanguages = ["ocaml"]
-    highlightjsTheme = "gruvbox-light"
-    highlightjsThemeDark = "gruvbox-dark"
+    highlightjsExtraLanguages = ["clojure", "ocaml"]
+    highlightjsTheme = "tomorrow"
+    highlightjsThemeDark = "tomorrow-night"
 
     #options
     showSummaryCoverInPost = true
