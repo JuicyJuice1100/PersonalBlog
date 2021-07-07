@@ -13,7 +13,7 @@ categories:
 tags:
   - diet
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 Whelp... I'm off to a great start.  Wife decided to get McDonalds for lunch so ended up getting some Mc'Ds.  
