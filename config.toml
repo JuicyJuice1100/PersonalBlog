@@ -1,4 +1,4 @@
-baseURL = "theoriginaljuicyjuice.netlify.app"
+baseURL = "https://theoriginaljuicyjuice.netlify.app"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "My New Hugo Site"
