@@ -1,4 +1,52 @@
 baseURL = "http://example.org/"
+defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dream" 
+
+[params]
+    background = "#fff"
+    linkColor = "seagreen"
+
+    # dark mode
+    # defaultDark = true
+    backgroundDark = "black"
+    darkLinkColor = "darkseagreen"
+    # darkNav = true
+    # dark404 = true
+
+    images = [""]
+
+    author = "Juice"
+    description = "TheOriginalJuicyJuice"
+    # avator = ""
+    headerTitle = "TheOriginalJuicyJuice"
+    
+    #social
+    rss = true
+    email = "TheOriginalJuicyJuice@gmail.com"
+    linkedin = "https://www.linkedin.com/in/justin-espiritu-b4a277138/"
+    github = "https://github.com/JuicyJuice1100"
+
+    siteStartYear = 2021
+
+    #search
+    enableSearch = true
+
+    highlightjs = true
+    # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+    highlightjsExtraLanguages = ["ocaml"]
+    highlightjsTheme = "gruvbox-light"
+    highlightjsThemeDark = "gruvbox-dark"
+
+    #options
+    showSummaryCoverInPost = true
+    # hasTwitterEmbed = true
+    # reversePostAndAside = true
+    # shareInAside = true
+    fixedNav = true
+    # collapsibleTags = true
+    # collapseBySummary = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
