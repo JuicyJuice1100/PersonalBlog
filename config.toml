@@ -21,12 +21,15 @@ theme = "dream"
     description = "TheOriginalJuicyJuice"
     avatar = "/img/logo.png"
     headerTitle = "TheOriginalJuicyJuice"
+    motto = "Blog"
     
     #social
     rss = true
     email = "TheOriginalJuicyJuice@gmail.com"
-    linkedin = "https://www.linkedin.com/in/justin-espiritu-b4a277138/"
-    github = "https://github.com/JuicyJuice1100"
+    linkedin = "justin-espiritu-b4a277138"
+    github = "JuicyJuice1100"
+    youtube = "UCraorLjTst3o7EvuauTSoFQ"
+    twitch = "theoriginaljuicyjuice"
 
     siteStartYear = 2021
 

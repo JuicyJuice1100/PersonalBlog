@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Resume
 ---
 
-Resume: https://justinlespiritu.com/
+https://justinlespiritu.com/
