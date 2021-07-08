@@ -12,6 +12,7 @@ categories:
   - diet
 tags:
   - diet
+  - cheat day
 # nolastmod: true
 draft: false
 ---
