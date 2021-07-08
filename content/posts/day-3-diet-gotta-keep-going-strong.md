@@ -11,3 +11,14 @@ tags = ["diet"]
 title = "Day 3 - Diet - Gotta Keep Going Strong"
 
 +++
+# Breakfast
+
+Nature Valley Granola Bar
+
+# Lunch
+
+Homemade Granola w/ oatmilk
+
+# Snack
+
+Cashews
