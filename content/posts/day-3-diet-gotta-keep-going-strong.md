@@ -11,6 +11,10 @@ tags = ["diet"]
 title = "Day 3 - Diet - Gotta Keep Going Strong"
 
 +++
+# Summary
+
+Still going strong.  Mostly ate left overs and things I made earlier in the week.  Better keep this up as I didn't go rock climbing too much this week.  
+
 # Breakfast
 
 Nature Valley Granola Bar
@@ -22,3 +26,17 @@ Homemade Granola w/ oatmilk
 # Snack
 
 Cashews
+
+# Dinner
+
+Left Over Fried Rice
+
+* Fried White Rice
+* Veggies
+* Hotdogs
+
+# Dessert
+
+German Hard Candy
+
+# 
