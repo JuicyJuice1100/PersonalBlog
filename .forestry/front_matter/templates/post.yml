@@ -29,3 +29,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/day-3-diet-gotta-keep-going-strong.md
