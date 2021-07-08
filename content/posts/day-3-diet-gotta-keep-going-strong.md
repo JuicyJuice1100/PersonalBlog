@@ -13,7 +13,7 @@ title = "Day 3 - Diet - Gotta Keep Going Strong"
 +++
 # Summary
 
-Still going strong.  Mostly ate left overs and things I made earlier in the week.  Better keep this up as I didn't go rock climbing too much this week.  
+Still going strong.  Mostly ate left overs and things I made earlier in the week.  Better keep this up as I didn't go rock climbing too much this week.
 
 # Breakfast
 
@@ -39,4 +39,6 @@ Left Over Fried Rice
 
 German Hard Candy
 
-# 
+# For Next Time
+
+Just keep it up.  Will have to start doing measurements on what I eat as well.
