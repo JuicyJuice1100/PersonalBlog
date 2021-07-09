@@ -8,7 +8,7 @@ date = 2021-07-09T18:00:00Z
 draft = true
 lastmod = 2021-07-09T18:00:00Z
 tags = ["diet"]
-title = "Day 4 - Diet - I'm Running out of food"
+title = "Diet - Day 4 - I'm Running out of food"
 
 +++
 # Summary
