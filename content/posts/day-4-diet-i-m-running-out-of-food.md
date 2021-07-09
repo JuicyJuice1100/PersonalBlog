@@ -11,6 +11,8 @@ tags = []
 title = "Day 4 - Diet - I'm running out of food"
 
 +++
+# Summary
+
 # Breakfast
 
 Nature Valley Granola
@@ -27,10 +29,10 @@ Left over fried rice
 
 # Snack
 
-Home Made Granola 
+Home Made Granola
 
 * No Oat Milk  :(
 
 (I desperately need to go grocery shopping)
 
-# 
+# For Next Time
