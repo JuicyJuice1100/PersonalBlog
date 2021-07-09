@@ -1,20 +1,17 @@
 ---
-title: Day 1 - Diet - Off to a Great Start
-date: 2021-07-07T13:11:28-05:00
-lastmod: 2021-07-07T13:11:28-05:00
+title: " Diet - Day 1 - Off to a Great Start"
+date: 2021-07-07T13:11:28.000-05:00
+lastmod: 2021-07-07T13:11:28.000-05:00
 author: Juice
-avatar: /img/avatar.png
+avatar: "/img/avatar.png"
 authorlink: https://justinlespiritu.com/
-cover: /img/day1Diet.jpg
-# images:
-#   - /img/cover.jpg
+cover: "/img/day1Diet.jpg"
 categories:
-  - diet
+- diet
 tags:
-  - diet
-  - cheat day
-# nolastmod: true
-draft: false
+- diet
+- cheat day
+
 ---
 # Summary 
 Whelp... I'm off to a great start.  Wife decided to get McDonalds for lunch so ended up getting some Mc'Ds.  
