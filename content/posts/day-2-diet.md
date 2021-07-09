@@ -1,19 +1,16 @@
 ---
-title: Day 2 - Diet - No Fastfood This Time
-date: 2021-07-07T20:10:38-05:00
-lastmod: 2021-07-07T20:10:38-05:00
+title: Diet - Day 2 - No Fastfood This Time
+date: 2021-07-07T20:10:38.000-05:00
+lastmod: 2021-07-07T20:10:38.000-05:00
 author: Juice
-avatar: /img/avatar.png
+avatar: "/img/avatar.png"
 authorlink: https://justinlespiritu.com/
-cover: /img/day2Diet.jpg
-# images:
-#   - /img/cover.jpg
+cover: "/img/day2Diet.jpg"
 categories:
-  - diet
+- diet
 tags:
-  - diet
-# nolastmod: true
-draft: false
+- diet
+
 ---
 # Summary
 Hooray much better day.  Did skip lunch cause of work stuff but ended up eating a little bit of a snack.
@@ -39,5 +36,3 @@ Fried Rice
 
 # For Next Time
 Gotta make sure I don't skip meals.  Gotta eat something small at least.
-
-
