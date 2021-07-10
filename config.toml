@@ -2,7 +2,8 @@ baseURL = "https://theoriginaljuicyjuice.netlify.app"
 defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "dream" 
+theme = "dream"
+googleAnalytics = "G-Y43DYL2ML9"
 
 [params]
     background = "#fff"
