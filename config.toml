@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dream"
-googleAnalytics = "G-NWHDK5TY15"
+googleAnalytics = "G-XQLSXE9SP7"
 
 [params]
     background = "#fff"
