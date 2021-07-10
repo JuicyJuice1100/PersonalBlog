@@ -4,8 +4,8 @@ authorlink = "https://justinlespiritu.com/"
 avatar = "/img/avatar.png"
 categories = ["diet"]
 cover = "/img/day4diet.jpg"
-date = 2021-07-09T18:00:00Z
-lastmod = 2021-07-09T18:00:00Z
+date = 2021-07-09T17:00:00Z
+lastmod = 2021-07-09T17:00:00Z
 tags = ["diet"]
 title = "Diet - Day 4 - I'm Running out of food"
 
