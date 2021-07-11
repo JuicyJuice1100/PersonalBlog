@@ -27,7 +27,7 @@ Forgot to take picture for blog so here's a picture of some food I made from a w
 
 Protein Shake
 
-* 200ml oatmilk
+* 200ml Oat Milk
 * 1 scoop rice protein powder
 * 1 scoop pea protein powder
 
