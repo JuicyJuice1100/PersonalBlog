@@ -12,11 +12,11 @@ title = "Day 5 - Still Craving a Burger"
 +++
 # Summary
 
-Woke up pretty late today so ended up having a brunch smoothie.  
+Woke up pretty late today so ended up having a brunch smoothie.
 
 First time making these smoothies.  Definitely need to get the ratio right between oat milk and fruit cause I put way too much fruit.
 
-Because the Wife and I planned to go out today tried not to eat too much before dinner.  Dinner was huge, no way could I finish that in one siting so will probably end up eating the rest for lunch tomorrow. 
+Because the Wife and I planned to go out today tried not to eat too much before dinner.  Dinner was huge, no way could I finish that in one siting so will probably end up eating the rest for lunch tomorrow.
 
 Have to not go out to eat till next weekend.  Hopefully I can keep that goal.
 
@@ -24,8 +24,8 @@ Have to not go out to eat till next weekend.  Hopefully I can keep that goal.
 
 Fruit Smoothie
 
-* Frozen Triple Berry Medley w/ Kale 
-* Oatmilk
+* Frozen Triple Berry Medley w/ Kale
+* Oat Milk
 
 # Snack
 
@@ -43,7 +43,7 @@ Stubby's Gastro Pub
 * Mushroom Swiss Patty Melt
 * Fries
 * Coleslaw
-* Heath Milkshake 
+* Heath Milkshake
 
 # For Next Time
 
