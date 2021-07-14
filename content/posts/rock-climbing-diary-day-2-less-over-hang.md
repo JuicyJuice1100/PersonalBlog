@@ -6,7 +6,7 @@ categories = ["Exercise"]
 cover = "/img/day2climbing.jpg"
 date = 2021-07-11T05:00:00Z
 lastmod = 2021-07-11T05:00:00Z
-tags = ["Bouldering", "Rock Climbing", "Excercise"]
+tags = ["Exercise", "Bouldering", "Rock Climbing"]
 title = "Rock Climbing Diary - Day 2 - Less Over Hang"
 
 +++
