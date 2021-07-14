@@ -2,11 +2,11 @@
 author = "Juice"
 authorlink = "https://justinlespiritu.com/"
 avatar = "/img/avatar.png"
-categories = ["Excercise"]
+categories = ["Exercise"]
 cover = "/img/day3climbing.jpg"
 date = 2021-07-13T05:00:00Z
 lastmod = 2021-07-13T05:00:00Z
-tags = ["Rock Climbing", "Bouldering", "Excercise"]
+tags = ["Rock Climbing", "Bouldering", "Exercise"]
 title = "Rock Climbing Diary - Day 3 - Doing Some Slab"
 
 +++
