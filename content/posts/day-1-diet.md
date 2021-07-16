@@ -1,5 +1,5 @@
 ---
-title: " Diet - Day 1 - Off to a Great Start"
+title: " Diet - Day 01 - Off to a Great Start"
 date: 2021-07-07T13:11:28.000-05:00
 lastmod: 2021-07-07T13:11:28.000-05:00
 author: Juice
