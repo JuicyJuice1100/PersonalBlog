@@ -1,5 +1,5 @@
 ---
-title: Diet - Day 2 - No Fastfood This Time
+title: Diet - Day 02 - No Fastfood This Time
 date: 2021-07-07T20:10:38.000-05:00
 lastmod: 2021-07-07T20:10:38.000-05:00
 author: Juice
