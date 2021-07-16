@@ -12,7 +12,7 @@ title = "Diet - Day 10 - Made some Oat Milk"
 +++
 # Summary
 
-Today was similar to yesterday.  
+Today was similar to yesterday.
 
 I did run out of oat milk so decided to make my own oat milk cause I have so many oats. Turned out okay but definitely way too much work to strain.  Probably just going to stick with buying it from the grocery.  Plus the flavor is definitely more oaty and less like a 'milk'.
 
@@ -26,7 +26,7 @@ Homemade granola w/ oat milk
 
 Nothing
 
-# Snack 
+# Snack
 
 * Salted Caramel Cashews
 * Habanero BBQ Almonds
@@ -48,6 +48,8 @@ Clementine
 # Snack
 
 Homemade granola w/ oat milk
+
+Habanero BBQ Almonds
 
 # For Next Time
 
