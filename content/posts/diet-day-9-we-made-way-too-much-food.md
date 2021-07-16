@@ -7,7 +7,7 @@ cover = "/img/day9diet.jpg"
 date = 2021-07-14T05:00:00Z
 lastmod = 2021-07-14T05:00:00Z
 tags = ["diet"]
-title = "Diet - Day 9 - We Made Way Too Much Food"
+title = "Diet - Day 09 - We Made Way Too Much Food"
 
 +++
 # Summary
