@@ -7,7 +7,7 @@ cover = "/img/day3diet.jpg"
 date = 2021-07-08T18:11:28Z
 lastmod = 2021-07-08T05:00:00Z
 tags = ["diet"]
-title = "Diet - Day 3 - Gotta Keep Going Strong"
+title = "Diet - Day 03 - Gotta Keep Going Strong"
 
 +++
 # Summary

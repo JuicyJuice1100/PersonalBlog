@@ -7,7 +7,7 @@ cover = "/img/day7diet.jpg"
 date = 2021-07-12T05:00:00Z
 lastmod = 2021-07-12T05:00:00Z
 tags = ["diet"]
-title = "Diet - Day 7 - Ratatouille!!"
+title = "Diet - Day 07 - Ratatouille!!"
 
 +++
 # Summary
