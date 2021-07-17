@@ -1,7 +1,7 @@
 baseURL = "https://theoriginaljuicyjuice.netlify.app"
 defaultContentLanguage = "en"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "OGJJ Blog"
 theme = "dream"
 googleAnalytics = "G-XQLSXE9SP7"
 
