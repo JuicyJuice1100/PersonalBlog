@@ -5,13 +5,22 @@ avatar = "/img/avatar.png"
 categories = ["diet"]
 cover = "/img/day12diet.jpg"
 date = 2021-07-17T05:00:00Z
-draft = true
 lastmod = 2021-07-17T05:00:00Z
 tags = ["cheat day", "diet"]
 title = "Diet - Day 12 - Late Night Out"
 
 +++
 # Summary
+
+Brother from out of town was visiting so ended up going out to eat with my family.  
+
+Went out to eat at Movida for tapas.  Food was delicious, definitely recommend going there if you're in the Milwaukee, WI area.  
+
+Did end up eating way less before dinner to prep for the night.
+
+I also did end up doing a quick work out as well.
+
+Overall, I think a good day considering going out to eat.
 
 # Breakfast
 
@@ -38,12 +47,14 @@ Went out to eat at Movida at Hotel Madrid
 * Garlic Shrimp
 * Chef's Paella
 
-Menu found here: [0a010a_d9ffc2fe93c4439da34095b5b47061ab.pdf (filesusr.com)](https://61d5bb29-4c89-41e0-9a07-47e8fd195c31.filesusr.com/ugd/0a010a_d9ffc2fe93c4439da34095b5b47061ab.pdf "Movida Menu")
+Menu found here: [Movida Menu](https://61d5bb29-4c89-41e0-9a07-47e8fd195c31.filesusr.com/ugd/0a010a_d9ffc2fe93c4439da34095b5b47061ab.pdf "Movida Menu")
 
-# Snack
+# Late Night
 
-Vanilla & Honey Almonds
+* 2x Lime White Claws
+* Pepperoni Pizza 
 
 # For Next Time
 
-* Don't skip meals
+* Try not to eat too much when going out, leave 10% of you meal as leftovers minimum
+* Could do without the late night food
