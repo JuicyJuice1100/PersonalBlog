@@ -7,7 +7,7 @@ cover = "/img/climbing.jpg"
 date = 2021-07-18T05:00:00Z
 lastmod = 2021-07-18T05:00:00Z
 tags = ["Bouldering", "Rock Climbing", "Exercise"]
-title = "Rock Climbing Diary - Day 5 - Going to be Extremely Sore Tomorrow"
+title = "Rock Climbing Diary - Day 6 - Going to be Extremely Sore Tomorrow"
 
 +++
 # Summary
