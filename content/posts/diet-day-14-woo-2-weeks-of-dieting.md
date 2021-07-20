@@ -71,7 +71,7 @@ Green Beans
 * Salt
 * Thyme
 
-Scoop of vanilla
+Scoop of vanilla Ice cream
 
 * Small Scoop of Vanilla
 * Crushed Poptart
