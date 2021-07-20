@@ -71,6 +71,12 @@ Green Beans
 * Salt
 * Thyme
 
+Scoop of vanilla
+
+* Small Scoop of Vanilla
+* Crushed Poptart
+* Dark Chocolate Shavings
+
 # For Next Time
 
 * Keep following the portion rule
