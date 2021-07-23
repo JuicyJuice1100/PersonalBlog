@@ -7,7 +7,7 @@ cover = "/img/day16diet.jpg"
 date = 2021-07-21T05:00:00Z
 lastmod = 2021-07-21T05:00:00Z
 tags = ["diet"]
-title = "Diet - Day 16 - "
+title = "Diet - Day 16 - Fasting Day?"
 
 +++
 # Summary
