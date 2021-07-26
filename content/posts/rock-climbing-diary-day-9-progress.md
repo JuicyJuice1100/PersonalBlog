@@ -27,3 +27,4 @@ Otherwise just did a few random problems here and there.  Was mostly concentrati
 * Keep cutting weight
 * Start doing training for climbing, I want to improve my climbing  Need to create a training/workout plan
 * Finish the black blue overhang & volume blue problem
+* Remember to take a picture for the blog
