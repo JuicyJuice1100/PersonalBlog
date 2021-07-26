@@ -18,6 +18,8 @@ Was pretty hungry from rock climbing today so ate a little more than usual.  But
 
 Needed to get rid of some left overs so ended up using and eating a bunch of those.  I might need to start keeping track of calories so I can be a little more accurate with my diet.
 
+Didn't take a pic so here's some food from my dinner at Mistral.
+
 # Breakfast
 
 Eggs and Rice
