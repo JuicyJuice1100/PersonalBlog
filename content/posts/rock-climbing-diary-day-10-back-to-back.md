@@ -14,7 +14,7 @@ title = "Rock Climbing Diary - Day 10 - Back to Back"
 
 Did some bouldering at the MKE gym today.
 
-The usual warmup with pinks and blues.  
+The usual warmup with pinks and blues.
 
 Tried to finish the blue green problem but just have an issue with reaching that last hold.  It's so far away and I'm literally standing on  my tip toes on a huge volume hold.  I basically just have to dyno for it.
 
@@ -25,6 +25,8 @@ Did attempt to do other random problems but really only concentrated on those tw
 I did meet some new peoples while climbing: Stephen, Michael, & Rachael.  Was doing a lot of the same problems with Stephen.
 
 Will be rock climbing again tomorrow so this will be 3 days in a row for rock climbing.  So I'll have to make sure to rest well after tomorrow.
+
+I keep forgetting to take a picture for the blog...
 
 # Future Goals
 
