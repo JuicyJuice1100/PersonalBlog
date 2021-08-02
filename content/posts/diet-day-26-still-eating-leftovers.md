@@ -4,8 +4,8 @@ authorlink = "https://justinlespiritu.com/"
 avatar = "/img/avatar.png"
 categories = ["diet"]
 cover = "/img/day26diet.jpg"
-date = 2021-08-01T05:00:00Z
-lastmod = 2021-08-01T05:00:00Z
+date = 2021-07-31T05:00:00Z
+lastmod = 2021-07-31T05:00:00Z
 tags = ["diet"]
 title = "Diet - Day 26 - Still Eating Leftovers"
 
