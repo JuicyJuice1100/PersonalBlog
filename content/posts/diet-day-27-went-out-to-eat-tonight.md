@@ -2,11 +2,11 @@
 author = "Juice"
 authorlink = "https://justinlespiritu.com/"
 avatar = "/img/avatar.png"
-categories = []
+categories = ["Diet"]
 cover = "/img/day2climbing.jpg"
 date = 2021-08-01T05:00:00Z
 lastmod = 2021-08-01T05:00:00Z
-tags = []
+tags = ["Cheat Day", "Diet"]
 title = "Diet - Day 27 - Went Out to Eat Tonight"
 
 +++
