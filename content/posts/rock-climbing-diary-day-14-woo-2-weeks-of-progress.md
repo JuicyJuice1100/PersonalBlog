@@ -14,9 +14,9 @@ title = "Rock Climbing Diary - Day 14 - Woo 2 Weeks of Progress"
 
 Went to MKE today to do some bouldering.
 
-Did the usual warmup with pinks and blues.  
+Did the usual warmup with pinks and blues.
 
-Tried to figure out some greens today.  
+Tried to figure out some greens today.
 
 Still couldn't finish the blue green slabby problem.  Just cannot land the last move.
 
@@ -26,7 +26,7 @@ I did try on some new shoes today.  Definitely need to get some cause mine have 
 
 Other than that, I think today was decent.  Made a lot of progress on the problem I was  trying to figure out.
 
-Need to remember to take a picture.
+Forgot to take a picture again so here's another picture of Zazu.
 
 # Future Goals
 
