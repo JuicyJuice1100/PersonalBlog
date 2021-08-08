@@ -14,9 +14,17 @@ title = "Diet - Day 32 - Testing out a Cheat Day"
 
 Today was a cheat day.  We ended up not going to the state fair today because of the rain.
 
-I did intake a lot of food today.  I don't think I'm going to do a cheat day like this again.  It was a good test and I've learned I do not like eating this much food anymore.  Makes me feel awful.  
+I did intake a lot of food today.  I don't think I'm going to do a cheat day like this again.  It was a good test and I've learned I do not like eating this much food anymore.  Makes me feel awful.
 
 I will probably just stick with just doing cheat meals/snacks instead of prepping for a whole cheat day.
+
+I will say the food was delicious today.  
+
+Ate at Engine Company No. 3 which is a great place to grab brunch.
+
+My wife was craving a burger.  So ended up at Stack'd for dinner.  
+
+But as I said this will probably be the last time I do a cheat day like this.
 
 # Brunch
 
