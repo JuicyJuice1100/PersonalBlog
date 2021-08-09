@@ -18,11 +18,11 @@ I did intake a lot of food today.  I don't think I'm going to do a cheat day lik
 
 I will probably just stick with just doing cheat meals/snacks instead of prepping for a whole cheat day.
 
-I will say the food was delicious today.  
+I will say the food was delicious today.
 
 Ate at Engine Company No. 3 which is a great place to grab brunch.
 
-My wife was craving a burger.  So ended up at Stack'd for dinner.  
+My wife was craving a burger.  So ended up at Stack'd for dinner.
 
 But as I said this will probably be the last time I do a cheat day like this.
 
@@ -52,5 +52,4 @@ Clementine
 
 * Start keeping track of my calories
 * Keep doing this blog & keep up the good work :)
-* Cut some calories out Friday and Sunday to prep for cheat day on Saturday
 * No more full cheat days like this anymore
