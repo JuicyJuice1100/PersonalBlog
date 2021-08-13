@@ -7,7 +7,7 @@ cover = "/img/day2climbing.jpg"
 date = 2021-08-11T05:00:00Z
 lastmod = 2021-08-11T05:00:00Z
 tags = ["top rope", "bouldering", "rock climbing", "exercise"]
-title = "Rock Climbing Diary - Day 17 - Finally got around to Taking a Belay Class"
+title = "Rock Climbing Diary - Day 18 - Finally got around to Taking a Belay Class"
 
 +++
 # Summary
