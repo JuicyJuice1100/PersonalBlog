@@ -1,6 +1,6 @@
 +++
 author = "Juice"
-authorlink = ""
+authorlink = "https://justinlespiritu.com/"
 avatar = "/img/avatar.png"
 categories = ["exercise"]
 cover = "/img/day19climbing.jpg"
