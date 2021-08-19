@@ -26,7 +26,10 @@ I attempted to do the blue pink slab problem by the corner.  It took me a while 
 
 Overall a good climbing day.
 
+I forgot to take a picture so here's a picture of my breakfast.
+
 # Future Goals
 
 * Keep cutting weight
 * Keep projecting greens
+* Remember to take a picture
