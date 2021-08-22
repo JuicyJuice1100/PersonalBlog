@@ -20,7 +20,7 @@ My in-laws treated the Wife and I to dinner today for a late birthday celebratio
 
 I couldn't eat anything for dessert so just had some black coffee.  Did think about putting some Splenda for sweetener, but decided not to.  But I might buy some in the future to make some keto friendly desserts.
 
-I think overall I did pretty well today.
+I did go above my carb count by 5g unfortunately.  But I think I can fix that by taking out the protein bars out of my diet.  My goal carb count is 23g daily.  So it's still pretty good, still under 30g.  I think overall I did pretty well today. 
 
 # Breakfast
 
@@ -40,7 +40,7 @@ I think overall I did pretty well today.
 House Salad
 
 * Balsamic Dressing
-* Removed the Croutons 
+* Removed the Croutons
 
 Roast Duck
 
@@ -48,7 +48,7 @@ Roast Duck
 * Gave Stuffing to wife
 * Carrots
 * Green Beans
-* Used very little burgundy cherry sauce, gave most of it to wife 
+* Used very little burgundy cherry sauce, gave most of it to wife
 
 King Crab Legs
 
@@ -63,4 +63,5 @@ Coffee
 * Keep doing this blog & keep up the good work :)
 * Have to be strict with keto, no cheat days
 * Fix Keto Diet
-* Possibly Buy artificial sweetener 
+* Keep using app
+* Possibly Buy artificial sweetener
