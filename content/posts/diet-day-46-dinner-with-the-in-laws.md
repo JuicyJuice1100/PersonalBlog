@@ -32,7 +32,7 @@ I did go above my carb count by 5g unfortunately.  But I think I can fix that by
 # Lunch
 
 * 2 Fried Eggs
-* Green Leaf Lettuc
+* Green Leaf Lettuce
 * Tomato Grapes
 
 # Dinner
