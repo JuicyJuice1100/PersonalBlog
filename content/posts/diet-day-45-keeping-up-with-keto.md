@@ -20,7 +20,7 @@ Pan fried the chicken then cooked some celery in the chicken fat w/ some red win
 
 For the cooked salad, through butter onion and garlic with some salt and pepper in a pan to give a good cook.  Threw the tomato grapes in followed by cilantro.  Then threw kale and some spinach leaves.
 
-Made a quick guacamole to go on top of the salad.  Sprinkled some cashews on top and finished it with the chicken.  
+Made a quick guacamole to go on top of the salad.  Sprinkled some cashews on top and finished it with the chicken.
 
 I couldn't let the celery go to waste so just ate that on the side.  Turned out pretty good.
 
@@ -66,9 +66,11 @@ Guacamole
 
 * Salt
 * Pepper
-* Crushed Red Pepper 
+* Crushed Red Pepper
 * Cilantro
 * Lemon Juice
+
+[Menu - The Packing House, Restaurant in Milwaukee WI Near General Mitchell Airport (packinghousemke.com)](https://packinghousemke.com/menu/)
 
 # Dessert
 
