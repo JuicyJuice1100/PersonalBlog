@@ -12,7 +12,9 @@ title = "Diet - Day 50 - Pretty Sure I'm In Ketosis Now"
 +++
 # Summary
 
-Nothing special about today.  Just keeping up with my keto diet.
+Nothing special about today.  Feel much better than yesterday.  
+
+Just keeping up with my keto diet.
 
 # Breakfast
 
